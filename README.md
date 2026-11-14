@@ -1,6 +1,6 @@
 # Book Companion Notebooks
 
-Full, runnable Jupyter notebooks for the book series *A Solutions Architect's Field Guide to AI*. The books print short, edited excerpts as numbered Listings. This repo holds the complete notebooks those excerpts come from.
+Full, runnable Jupyter notebooks for the book series *A Solutions Architect's Field Guide*. The books print short, edited excerpts as numbered Listings. This repo holds the complete notebooks those excerpts come from.
 
 ## Structure
 
