@@ -18,3 +18,7 @@ venv/
 .DS_Store
 .vscode/
 .idea/
+
+# Files the notebooks write when run
+book*/**/*.png
+book*/**/*.csv

@@ -1,0 +1,14 @@
+# Packages for the Book 1 notebooks. Python 3.10 or later.
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+duckdb
+xgboost
+lightgbm
+optuna
+umap-learn
+jupyterlab

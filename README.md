@@ -23,11 +23,18 @@ book-companion-notebooks/
 | 3 | *Systems & Performance* | 38–57 | Coming later |
 | 4 | *Applied AI Domains* | 58–83 | Coming later |
 
-Not every chapter has a notebook. Chapters without hands-on code have no folder.
+Book 1 has one notebook for each of its 20 chapters.
 
 ## Using the notebooks
 
-The notebooks are saved clean, with no outputs. Run them top to bottom to see the results. Listing 4.3 in the book is the third listing in Chapter 4, and you'll find its full code in `book1/ch04/`.
+Install the packages, then start Jupyter:
+
+```
+pip install -r requirements.txt
+jupyter lab
+```
+
+The notebooks are saved clean, with no outputs. Run them top to bottom to see the results. Some notebooks save charts (`.png`) and data (`.csv`) next to themselves. Git ignores these files. Listing 4.3 in the book is the third listing in Chapter 4, and you'll find its full code in `book1/ch04/`.
 
 ## Versioning
 
